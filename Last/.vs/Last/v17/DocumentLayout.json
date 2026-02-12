@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\R\\2027last\\Last\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{472B55E2-0056-4AD7-9192-7686EC0B0A64}|Last\\Last.csproj|d:\\r\\2027last\\last\\last\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{472B55E2-0056-4AD7-9192-7686EC0B0A64}|Last\\Last.csproj|solutionrelative:last\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\R\\2027last\\Last\\Last\\Program.cs",
+              "RelativeDocumentMoniker": "Last\\Program.cs",
+              "ToolTip": "D:\\R\\2027last\\Last\\Last\\Program.cs",
+              "RelativeToolTip": "Last\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T04:37:47.314Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
